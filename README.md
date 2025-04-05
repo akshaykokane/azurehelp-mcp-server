@@ -25,7 +25,9 @@ Think of this as your **interactive AI assistant for Azure diagnostics**.
 > ❓ “I can’t SSH into my Azure VM.”
 
 This tool lets an LLM walk you through possible causes and fixes interactively using Microsoft’s Guided Troubleshooter API.
+
 ![Demo of the app in action](assets/demo.gif)
+
 ---
 
 ## 🧰 Prerequisites
